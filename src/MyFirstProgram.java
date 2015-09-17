@@ -8,8 +8,8 @@ public class MyFirstProgram {
 		Tortoise.setSpeed(8);
 		
 		
-		Tortoise.setAnimal(Animals.Unicorn);
-		Tortoise.SetColor(Colors.getRandomColor);
+		Tortoise.setAnimal(Animals.Spider);
+		Tortoise.setPenColor(Colors.getRandomColor());
 		Tortoise.turn(145);
 		Tortoise.move(100);
 		Tortoise.turn(145);

@@ -7,12 +7,9 @@ public class EverythingIsAwesome
 	String Awesome=JOptionPane.showInputDialog("Are you awesome?");
 	if(Awesome=="yes"){
 	JOptionPane.showMessageDialog(null,"You are super cool!");
+	}
 	
-	else if{
 	
-	
-	}}
-	
-}}
+}
 
 }
